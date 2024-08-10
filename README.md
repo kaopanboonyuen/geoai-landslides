@@ -1,10 +1,12 @@
 # Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 **Author**: Teerapong Panboonyuen (Kao Panboonyuen)  
 **Project**: [geoai-landslides](https://github.com/kaopanboonyuen/geoai-landslides)  
 **Publication**: [Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping in Uttaradit Province, Thailand](https://kaopanboonyuen.github.io/geoai-landslides)  
 **Citation**: 
-```
+```bibtex
 @inproceedings{panboonyuen2023mars,
   title={Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping in Uttaradit Province, Thailand},
   author={Kritchayan, Nithima, Jojinda, Woraman, Patimakorn, **Panboonyuen, Teerapong**},
