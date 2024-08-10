@@ -1,0 +1,12 @@
+# Author: Teerapong Panboonyuen (Kao Panboonyuen)
+# Project: Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping
+# Description: Configuration file for the ResNet152+Att model. This YAML file contains settings for 
+#              training, evaluation, and model parameters, including paths to datasets and hyperparameters.
+# License: MIT License
+
+data_path: 'path/to/data'
+model_path: 'path/to/model.pth'
+num_classes: 1
+batch_size: 16
+learning_rate: 0.0001
+num_epochs: 20
