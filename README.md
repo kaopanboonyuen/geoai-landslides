@@ -24,6 +24,8 @@ Landslides present significant threats, causing both infrastructural damage and 
 - **Performance Metrics**: Achieves a precision of 91.44%, recall of 91.74%, F1-score of 91.59%, and ROC-AUC of 0.9678.
 - **Robust Framework**: Provides a more accurate and interpretable model for landslide susceptibility assessment.
 
+![](img/geoai_003.png)
+
 ## Installation
 
 To set up the project environment, first clone the repository:
@@ -62,6 +64,9 @@ pip install -r requirements.txt
 ## Project Website
 
 For additional details, visit the project website: [geoai-landslides](https://kaopanboonyuen.github.io/geoai-landslides).
+
+![](img/geoai_001.png)
+![](img/geoai_002.png)
 
 ## License
 
