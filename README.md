@@ -4,11 +4,11 @@
 
 **Author**: Teerapong Panboonyuen (Kao Panboonyuen)  
 **Project**: [geoai-landslides](https://github.com/kaopanboonyuen/geoai-landslides)  
-**Publication**: [Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping in Uttaradit Province, Thailand](https://kaopanboonyuen.github.io/geoai-landslides)
+### **Publication**: [Improved Landslide Susceptibility Mapping in Uttaradit, Thailand Using Deep Residual Networks with Self-Attention Mechanisms](https://kaopanboonyuen.github.io/geoai-landslides)
 
-## Overview
+## Abstract
 
-Landslides present significant threats, causing both infrastructural damage and economic losses. Effective landslide susceptibility mapping is vital for risk management. Traditional methods often struggle with the complex, nonlinear interactions among geological, hydrological, and meteorological factors. This project introduces an enhanced ResNet152 model with multi-head self-attention mechanisms to address these challenges. By capturing intricate dependencies within geospatial data, this approach significantly boosts prediction accuracy.
+Landslides pose considerable risks, leading to extensive damage to infrastructure and economic setbacks. Accurate landslide susceptibility mapping is crucial for effective risk mitigation strategies. Traditional approaches often face difficulties due to the complex, nonlinear relationships between various factors such as geology, hydrology, and meteorology. This study proposes an enhanced ResNet152 model integrated with multi-head self-attention mechanisms to address these challenges. By capturing complex spatial dependencies within geospatial data, the proposed method significantly improves the accuracy of landslide susceptibility predictions.
 
 ![](img/geoai_003.png)
 
@@ -66,8 +66,8 @@ If you use this project in your research, please cite the following publication:
 
 ```bibtex
 @inproceedings{panboonyuen2023mars,
-  title={Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping in Uttaradit Province, Thailand},
-  author={Kritchayan, Nithima, Jojinda, Woraman, Patimakorn, **Panboonyuen, Teerapong**},
+  title={Improved Landslide Susceptibility Mapping in Uttaradit, Thailand Using Deep Residual Networks with Self-Attention Mechanisms},
+  author={Teerapong Panboonyuen},
   year={2024}
 }
 ```
