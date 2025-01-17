@@ -1,4 +1,4 @@
-# Deep Residual Neural Networks with Self-Attention for Landslide Susceptibility Mapping
+# Improved Landslide Susceptibility Mapping in Uttaradit, Thailand Using Deep Residual Networks with Self-Attention Mechanisms
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
