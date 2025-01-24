@@ -65,7 +65,7 @@ For additional details, visit the project website: [geoai-landslides](https://ka
 If you use this project in your research, please cite the following publication:
 
 ```bibtex
-@inproceedings{panboonyuen2023mars,
+@inproceedings{panboonyuen2025geoailandslides,
   title={Improved Landslide Susceptibility Mapping in Uttaradit, Thailand Using Deep Residual Networks with Self-Attention Mechanisms},
   author={Teerapong Panboonyuen},
   year={2024}
